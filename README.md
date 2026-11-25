@@ -1,4 +1,4 @@
-# Rainfall Intelligence India 🌧️
+# Rainfall Intelligence India 
 
 ## Project Overview
 Rainfall Intelligence India is an end-to-end data analytics project focused on analysing rainfall patterns across India using three different datasets.
