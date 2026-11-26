@@ -57,3 +57,14 @@ The project contains one Power BI report file with three report pages:
 
 ## Project Status
 Completed – Rainfall Intelligence India Analytics Project.
+
+## Dashboard Screenshots
+
+### 1. Daily Rainfall Overview
+![Daily Rainfall Overview](Screenshots/Daily_Rainfall_Overview.png)
+
+### 2. Historical Rainfall Intelligence
+![Historical Rainfall Intelligence](Screenshots/Historical_Rainfall_Intelligence.png)
+
+### 3. District Rainfall Normal Intelligence
+![District Rainfall Normal Intelligence](Screenshots/District_Rainfall_Normal_Intelligence.png)
